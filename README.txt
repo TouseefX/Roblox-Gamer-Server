@@ -1,5 +1,7 @@
+# Fitter Disbaled And Vanilla Megred Server
+# Only For 2012M to 2014M
+
 Put Your Private Key in web folder (also in api/game as keygaming)
-and don't forgot to make a RCC hosting script
 if you want to enable chat fitter enable it in game folder
 put your face and shirts at char folder
 

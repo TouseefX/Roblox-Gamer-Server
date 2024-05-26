@@ -1,0 +1,1 @@
+{"resolvedAvatarType":"R6","accessoryVersionIds":[1],"equippedGearVersionIds":[],"backpackGearVersionIds":[],"bodyColorsUrl":"https://finobe.com/user/getbodycolors/146716","animations":{},"scales":{"Width":1.0000,"Height":1.0000,"Head":1.0000,"Depth":1.00,"Proportion":0.0000,"BodyType":0.0000}}

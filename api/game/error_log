@@ -1,0 +1,12 @@
+[08-May-2021 17:41:00 America/New_York] PHP Notice:  Undefined index: capp in /home/epicyxvb/epiccc.xyz/Game/Join16.php on line 9
+[08-May-2021 17:41:00 America/New_York] PHP Notice:  Undefined index: mship in /home/epicyxvb/epiccc.xyz/Game/Join16.php on line 10
+[08-May-2021 17:41:00 America/New_York] PHP Notice:  Undefined index: PlaceId in /home/epicyxvb/epiccc.xyz/Game/Join16.php on line 11
+[08-May-2021 21:24:06 America/New_York] PHP Notice:  Undefined index: ip in /home/epicyxvb/epiccc.xyz/Game/Join16.php on line 6
+[08-May-2021 21:24:06 America/New_York] PHP Notice:  Undefined index: mship in /home/epicyxvb/epiccc.xyz/Game/Join16.php on line 10
+[11-May-2021 02:28:07 America/New_York] PHP Notice:  Undefined index: user in /home/epicyxvb/assetgame.epiccc.xyz/Game/PlaceLauncher.php on line 5
+[11-May-2021 02:28:07 America/New_York] PHP Notice:  Undefined index: ip in /home/epicyxvb/assetgame.epiccc.xyz/Game/PlaceLauncher.php on line 6
+[11-May-2021 02:28:07 America/New_York] PHP Notice:  Undefined index: port in /home/epicyxvb/assetgame.epiccc.xyz/Game/PlaceLauncher.php on line 7
+[11-May-2021 02:28:07 America/New_York] PHP Notice:  Undefined index: id in /home/epicyxvb/assetgame.epiccc.xyz/Game/PlaceLauncher.php on line 8
+[11-May-2021 02:28:07 America/New_York] PHP Notice:  Undefined index: capp in /home/epicyxvb/assetgame.epiccc.xyz/Game/PlaceLauncher.php on line 9
+[11-May-2021 02:28:07 America/New_York] PHP Notice:  Undefined index: mship in /home/epicyxvb/assetgame.epiccc.xyz/Game/PlaceLauncher.php on line 10
+[11-May-2021 02:28:07 America/New_York] PHP Notice:  Undefined index: PlaceId in /home/epicyxvb/assetgame.epiccc.xyz/Game/PlaceLauncher.php on line 11

@@ -1,0 +1,22 @@
+create a file in game folder
+called Host.php
+and edit it like this
+
+<?php
+$place = $_GET['place'];
+$port = $_GET['port'];
+header("content-type: text/plain");
+ob_start();
+?>
+
+-- put your rcc hosting script here (make sure it comes with where you can change the url and remove the "function start" thing or keep it)
+
+-- End and getting the private key and put your signature
+
+<?php
+$data = ob_get_clean();
+$signature;
+$key = file_get_contents("../web/privatekey.pem");
+openssl_sign($data, $signature, $key, OPENSSL_ALGO_SHA1);
+echo sprintf("--rbxsig%%%s%%%s", base64_encode($signature), $data);
+?>
